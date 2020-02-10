@@ -1,0 +1,70 @@
+    
+    body {
+        background-color: black;
+        color: white;
+        text-align: center;
+    }
+    
+    header, nav, footer {
+        text-align: center; 
+    }
+    
+    main {
+        text-align: left;
+    }
+    
+    footer {
+        font-size: 0.8em;
+        color: blue;
+        clear: left;
+    }
+    
+    nav a {
+        padding:15px;
+        padding-bottom:4px;
+        font-size: 1.8em;
+        color: white;
+        text-decoration: none;
+    }
+    
+    nav a:hover {  /*pseudo class*/
+         border-bottom:2px orange solid;
+         font-size: 2em;
+         transition: .9s;
+    }
+    main {
+        display: flex;
+        justify-content: center;
+    }
+       
+    ul {
+        width:500px;
+        margin: 0 auto;
+        text-align: left;
+    }
+    
+    h1{
+        font-family: 'Arial';
+        font-size: 4em;
+        margin-bottom: 0px;
+    }
+    
+    div {
+        color: white;
+        
+    }
+    
+    p {
+        color: red;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+    
+    a {
+        font-size: 0.9em;
+        font-family: 'Verdana';
+    }
+    
+    em{
+        color: orange;
+    }
