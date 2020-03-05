@@ -18,5 +18,5 @@ Question #4;
 Element: <head>       Element: <body>
     |                 /             \
 Element: <title>   Element: <img>   Element: <p>
-					                            |
-				                          Element: <span>
+					   |
+				     Element: <span>
